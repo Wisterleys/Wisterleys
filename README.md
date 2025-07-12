@@ -65,7 +65,6 @@
 ## 📫 Contact
 
 - 🌐 Portfolio: [wisterleys.github.io](https://wisterleys.github.io)
-- ✉️ Email: wister.sousa2@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/wisterleys-sousa-a76546239](https://www.linkedin.com/in/wisterleys-sousa-a76546239/)
 
 ---

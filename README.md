@@ -1,53 +1,91 @@
-<h1 align="center">Hi there! I'm Wisterleys 👋</h1>
+# Hi, I'm Wisterleys! 👋
 
 <p align="center">
-  Full Stack Developer with experience in web and mobile applications.<br/>
-  Passionate about technology, clean code, and scalable solutions.
+  Full Stack Software Developer | PHP, Laravel, Angular & Vue.js
+</p>
+
+<p align="center">
+  Building and maintaining web applications with a focus on code quality, problem-solving, and maintainable solutions.
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 💼 4+ years working as a **Full Stack Developer**
-- 🚀 Solid experience with **Angular**, **Laravel**, **PHP**, **Flutter**, **TypeScript**, and **MySQL**
-- 🧪 Skilled in **automated testing**, **Docker**, **Git** and **Scrum**
-- 📲 Worked on web and mobile projects focused on user experience
-- 🌱 Always learning and exploring new technologies and best practices
+I'm a Software Developer with **5+ years of professional experience** in developing, maintaining, and evolving web applications and legacy systems.
+
+My main experience is in backend development with **PHP and Laravel**, combined with frontend development using **Angular, Vue.js, JavaScript, and TypeScript**. I also work with relational databases such as **MySQL and PostgreSQL**, developing and optimizing SQL queries.
+
+Throughout my career, I've also gained professional experience in mobile development with **Flutter and Ionic**.
+
+I enjoy investigating complex problems across frontend, backend, and databases, identifying root causes, and validating solutions to prevent regressions.
+
+I'm also interested in improving software development workflows through **automated testing, AI-assisted development, and Specification-Driven Development (SDD)**, always keeping technical review and validation as essential parts of the process.
+
+I value clean code, clear responsibilities, collaboration, and continuous improvement.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Front-end
+### Backend & APIs
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="Laravel" />
 </p>
 
-### Back-end
+PHP • Laravel • REST APIs
+
+### Frontend
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="35" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" alt="Vue.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" />
 </p>
 
-### DevOps & Tools
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="GitLab" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="Bitbucket" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
+Angular • Vue.js • JavaScript • TypeScript • HTML5 • CSS3
 
+### Mobile Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="35" alt="Ionic" />
 </p>
+
+Flutter • Ionic
+
+### Databases
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+</p>
+
+MySQL • PostgreSQL • SQL • Data Modeling
+
+### Tools & Quality
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="35" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="35" alt="Bitbucket" />
+</p>
+
+Docker • Git • GitLab • Bitbucket • PHPUnit • Automated Testing • Code Review
+
+### Development Practices
+
+- Clean Code and maintainable software
+- Automated testing and code review
+- Scrum and Kanban
+- AI-assisted development
+- Specification-Driven Development (SDD)
 
 ---
 
@@ -55,8 +93,8 @@
 
 <div align="center">
   <a href="https://github.com/Wisterleys">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wisterleys&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterleys&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Wisterleys&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Wisterleys GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wisterleys&layout=compact&langs_count=7&theme=dark" alt="Most Used Languages" />
   </a>
 </div>
 
@@ -69,4 +107,6 @@
 
 ---
 
-<sub>👨‍💻 Made with dedication by someone who believes technology can transform lives.</sub>
+<p align="center">
+  Thanks for visiting my profile! 👋
+</p>
